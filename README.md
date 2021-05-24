@@ -1,2 +1,14 @@
 # university-of-michigan-data-science
-Files related to the Intro to Data Science in Python by the University of Michigan 
+
+This repository serves as a way to document my journey through the Coursera's [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python) course.
+
+## Introduction to Data Science in Python
+
+## Applied Plotting, Charting & Data Representation in Python
+
+## Applied Machine Learning in Python
+
+## Applied Text Mining in Python
+
+## Applied Social Network Analysis in Python
+
